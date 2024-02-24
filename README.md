@@ -62,10 +62,11 @@ This Flask application integrates with OpenAI's davinci model to generate respon
    Handling errors and exceptions gracefully, especially when interacting with external APIs.
    Managing dependencies and ensuring compatibility with the Flask and OpenAI libraries.
 
-Issue:- Generated Response: OpenAI API error: The model `davinci` has been deprecated.
-
 9. Accomplishments:
    Successfully integrated LangChain and OpenAI's GPT-3 model into the Flask application.
    Implemented error handling to handle exceptions during response generation.
    Ensured the code structure is clear and well-organized for easy maintenance.
    Managed dependencies effectively to ensure smooth operation of the application.
+   
+Issue:- Generated Response: OpenAI API error: The model `davinci` has been deprecated.
+
