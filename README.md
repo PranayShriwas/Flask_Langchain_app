@@ -1,7 +1,7 @@
 ## Flask Application with OpenAI Integration Documentation
 
 ### Overview:
-This Flask application integrates with OpenAI's GPT-3 model to generate responses based on user prompts. The application provides a web interface where users can input prompts, and the generated responses are displayed on the webpage.
+This Flask application integrates with OpenAI's davinci model to generate responses based on user prompts. The application provides a web interface where users can input prompts, and the generated responses are displayed on the webpage.
 
 ### Dependencies:
 - Flask: A micro web framework for Python.
